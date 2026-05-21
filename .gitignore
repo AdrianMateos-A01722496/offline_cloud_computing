@@ -1,0 +1,19 @@
+# Datos y pesos locales (confidenciales, no se comparten por git)
+data_split.py
+x_local.npy
+y_local.npy
+weights_*.npz
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
